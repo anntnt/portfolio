@@ -23,9 +23,7 @@ export const attributes = {
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: `I'm from Vietnam but live now in Vienna more than twenty years.
-    I have many hobbies and interests e.g. Yoga, traveling, dancing and reading.\n
-    I love the nature and beautiful landscapes.`,
+    text: "I'm from Vietnam but live now in Vienna more than twenty years. I have many hobbies and interests e.g. Yoga, traveling, dancing and reading. I love the nature and beautiful landscapes.",
   },
   features: [
     {
