@@ -5,7 +5,7 @@ export const attributes = {
       link: '/#portfolio',
       text: 'Portfolio',
     },
-    heading: "I'm Paco Cu, and I create",
+    heading: "I'm An Tran, and I create",
     image: '/img/hero.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#about', text: 'About me' },
     social: {
@@ -14,15 +14,18 @@ export const attributes = {
       linkedin: { link: 'https://linkedin.com', show: true },
     },
     typed: [
-      { text: 'fast websites.' },
-      { text: 'beautiful logos.' },
-      { text: 'great experiences.' },
+      { text: 'websites' },
+      { text: 'landing pages' },
+      { text: 'newsletters' },
+      { text: 'animated banners.' },
     ],
   },
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi, sit amet consequat leo. Integer non dolor non elit sodales consequat. Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.\n',
+    text: `I'm from Vietnam but live now in Vienna more than twenty years.
+    I have many hobbies and interests e.g. Yoga, traveling, dancing and reading.\n
+    I love the nature and beautiful landscapes.`,
   },
   features: [
     {
@@ -82,5 +85,5 @@ export const attributes = {
     ],
     title: 'My work',
   },
-  footer: { text: '© John Doe' },
+  footer: { text: '© An Tran' },
 };
